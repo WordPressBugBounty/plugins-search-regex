@@ -1,5 +1,5 @@
 <?php
 
-define( 'SEARCHREGEX_VERSION', '3.1.2' );
-define( 'SEARCHREGEX_BUILD', '8a152e6fcd5a8a39d2c814748193eff1' );
-define( 'SEARCHREGEX_MIN_WP', '6.4' );
+define( 'SEARCHREGEX_VERSION', '3.3.1' );
+define( 'SEARCHREGEX_BUILD', 'fe5d88233c6494366473782a5f4bb89a' );
+define( 'SEARCHREGEX_MIN_WP', '6.5' );
